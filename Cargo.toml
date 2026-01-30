@@ -9,7 +9,7 @@ resolver = "2"
 edition = "2021"
 
 [workspace.dependencies]
-solana-sdk = "2"
-solana-client = "2"
-solana-account-decoder = "2"
+solana-sdk = "=1.16.23"
+solana-client = "=1.16.23"
+solana-account-decoder = "=1.16.23"
 anyhow = "1"
